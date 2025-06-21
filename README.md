@@ -82,9 +82,3 @@ npm start
 - Categories support nested structure up to 3 levels.
 - UI is kept minimal to focus on backend logic.
 - Clear separation of admin/user permissions via role-based auth.
-
-## 🔗 Submission
-
-> GitHub Repo: [https://github.com/seifmohamed0/ecommerce-system](https://github.com/seifmohamed0/ecommerce-system)
-
-> Deployed link (إن وجد): `ضع الرابط هنا`
